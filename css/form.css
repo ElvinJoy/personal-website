@@ -1,0 +1,72 @@
+
+*{
+    margin: auto;
+}
+
+body{
+    background-color: #be9d9d;
+}
+
+   .container{
+    background-image: url(../images/svg.png);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+       border: 1px solid black;
+       border-radius: 20px;
+       width: 500px;
+       height: 500px;
+       background-color: white;
+       margin-top: 10%;
+       
+   }
+
+   .name{
+       float: left;
+       padding-right: 30px;
+   }
+
+   .detail{
+
+       padding-left: 100px;
+       margin-top: 30px;
+       line-height: 4;
+       
+   }
+
+   h2{
+       margin-left: 170px;
+       padding-top: 30px;
+   }
+
+   .form {
+       padding-right: 100px;
+   }
+
+   .email{
+       padding-right: 100px;
+   }
+
+   .phone{
+       padding-right: 80px;
+   }
+
+   .message{
+       padding-right: 50px;
+   
+   }
+
+
+   button{
+       border: 1px solid;
+       border: none;
+       background-color: black;
+       color: white;
+       padding: 5px;
+       width: 10rem;
+       margin-left: 140px;
+   }
+
+   #button {
+    margin-left: 50px;
+   }

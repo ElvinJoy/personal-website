@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin-top: 8px;
+    margin: 15px;
+}
+
+.parent {
+    background-image: url(../images/red\ forest.jpg);
+  
+    height: 85.8vh;
+    width: 94.9vw;
+    font-size: 20px;
+    margin: 0;
+    padding: 50px 50px;
+    color: white;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 40px;
+    margin-left: 10px;
+}
+
+
+.thrissur {
+    margin-left: 16px;
+}
+
+.anchor {
+    height: 30px;
+    width: 100%;
+    background-color: black;
+    font-size: 20px;
+}
+
+span {
+    margin: 1%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.home:hover {
+    color: hotpink;
+  }
+  
+  .contact:hover {
+    color: chartreuse;
+  }
+  
+  .about:hover {
+    color: yellow;
+  }
+
+  .home:active {
+    color: blue;
+  }
+
+  .contact:active {
+    color: blue;
+  }
+
+  .about:active {
+    color: blue;
+  }
+
+  h1:hover {
+    color: chartreuse;
+  }
+
+  p:hover {
+    color: chartreuse;
+  }
+
+  .red {
+    color: yellow;
+  }
+
+  .button:hover {
+    background-color: #0056b3;
+  }
+  
+  
+  .parent a{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    margin-left: 15px;
+    margin-top: 40px;
+  }
